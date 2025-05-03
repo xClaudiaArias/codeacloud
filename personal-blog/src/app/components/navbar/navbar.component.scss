@@ -1,8 +1,15 @@
 .navbar {
     display: flex;
+    justify-content: space-between;
     gap: 1rem;
     padding: 1rem;
     background-color: #f2f2f2;
+}
+
+.navbar__logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
 }
 
 a {
