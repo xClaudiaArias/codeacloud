@@ -8,8 +8,8 @@
 - [x] Generate core pages and services
 
 ## 🚦 Routing & Navigation
-- [ ] Set up routes for all public and private pages
-- [ ] Add a navigation menu to switch between pages
+- [x] Set up routes for all public and private pages
+- [x] Add a navigation menu to switch between pages
 
 ## 🔓 Authentication
 - [ ] Create a simple `AuthService` with mock login
