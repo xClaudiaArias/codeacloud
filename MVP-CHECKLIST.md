@@ -12,10 +12,10 @@
 - [x] Add a navigation menu to switch between pages
 
 ## 🔓 Authentication
-- [ ] Create a simple `AuthService` with mock login
-- [ ] Build the `LoginComponent` with a login form
-- [ ] Protect dashboard route with `AuthGuard`
-- [ ] Add logout functionality
+- [x] Create a simple `AuthService` with mock login
+- [x] Build the `LoginComponent` with a login form
+- [x] Protect dashboard route with `AuthGuard`
+- [x] Add logout functionality
 
 ## 🏡 Public Pages
 - [ ] Home Page – display welcome message and latest blog
